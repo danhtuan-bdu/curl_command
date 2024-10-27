@@ -1,0 +1,2 @@
+curl --location 'https://graph.zalo.me/v2.0/me?fields=id%2Cname%2Cpicture' \
+--header 'access_token: FwSLSjlii4S-enbqs-wyHZge67RK-TzAIF41FT7Zl4mrxafxq-7hEbBFCbFfqUSbPlSKTT_EtZL7_GPVmg-xE2RXJ7IVgv8k0gH8J8JZcpibw61xbEw7FNVYN6_BiBnVBgjA0y3bab15wam1qyoUI3pRVGcZwPTVJFzFEUl1iLuAZKXffwYUF3QyFL-6Z_WHExemGTofsHK-annqteFX45EbA7lYi8iI1fLBORAjdoyzXJjGfet5E3cmRNM8YvGzByL8Iu73b21xXJP0nhRp0I6zCcoQWDS-BgyVSyget0vbdoKowBR_NKs3DZ7SoyLtKu8d1j6Unr1Nc2rcjvMEMZhQToYeagnN3fTB7hYBwqbVl35-nlJIC3ZNVv05tFQtH0'
